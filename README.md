@@ -1,2 +1,6 @@
 # A little bit Selenium
-## Open link and check title and text in form
+## Steps
+1. Open
+2. Create page
+3. Check title
+4. Check text
